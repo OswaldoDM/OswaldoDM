@@ -3,6 +3,7 @@
 ### Fullstack Developer | TypeScript, React and Next.js Specialist
 
 I have more than 6 years of experience transforming complex requirements into high-performance interfaces.
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OswaldoDM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
