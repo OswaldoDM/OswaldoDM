@@ -2,8 +2,13 @@
 
 ### Fullstack Developer | TypeScript, React and Next.js Specialist
 
-I have more than 6 years of experience transforming complex requirements into high-performance interfaces.
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OswaldoDM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I have more than 6 years of experience transforming complex requirements into high-performance interfaces
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -11,13 +16,18 @@ I have more than 6 years of experience transforming complex requirements into hi
 
 ### Frontend
 **Core:** JavaScript (ES6+), TypeScript, React, Next.js.
+
 **Styling:** CSS3, TailwindCSS.
-**State & Data:** Zustand, Redux, React Query, Context API.
+
+**State & Data:** Zustand, Redux, React Query.
+
 **Forms & Validation:** React Hook Form, Formik, Zod, Yup.
 
 ### Backend & DB
 **Server:** Node.js, Express, REST APIs.
+
 **Databases:** PostgreSQL, MongoDB, Mongoose.
+
 **ORM & Auth:** Prisma, Mongoose, JWT, Auth.js.
 
 ---
