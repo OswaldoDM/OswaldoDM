@@ -2,7 +2,7 @@
 
 ### Fullstack Developer | TypeScript, React and Next.js Specialist
 
-I have more than 6 years of experience transforming complex requirements into high-performance.
+I have more than 6 years of experience transforming complex requirements into high-performance interfaces.
 
 ---
 
