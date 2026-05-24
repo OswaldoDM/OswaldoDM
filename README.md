@@ -1,6 +1,6 @@
 # Hi, I'm Oswaldo Diaz Milanes 👋
 
-### Fullstack Developer | React and Next.js Specialist
+### Senior React Engineer | Fullstack Developer
 
 I have more than 6 years of experience transforming complex requirements into high-performance interfaces
 
