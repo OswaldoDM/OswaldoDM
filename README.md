@@ -15,7 +15,7 @@ I have more than 6 years of experience transforming complex requirements into hi
 ## 🛠️ Tech Stack
 
 ### Frontend
-**Core:** JavaScript (ES6+), TypeScript, React, Next.js.
+**Core:** JavaScript, TypeScript, React, Next.js.
 
 **Styling:** CSS3, TailwindCSS.
 
