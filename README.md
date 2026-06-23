@@ -1,6 +1,6 @@
 # Hi, I'm Oswaldo Diaz Milanes 👋
 
-### Senior React Engineer | Fullstack Developer
+### Senior Frontend Engineer | React & Next.js
 
 I have more than 6 years of experience transforming complex requirements into high-performance interfaces
 
@@ -34,7 +34,7 @@ I have more than 6 years of experience transforming complex requirements into hi
 
 ## 💼 Featured Experience
 
-**Senior Frontend Developer @ FOBS (2025 - Present):** Leading the frontend development of a business review platform MVP.
+**Senior Frontend Engineer @ FOBS (2025 - Present):** Leading the frontend development of a business review platform MVP.
 
 **Frontend Developer @ Nrby, Inc (2021 - 2025):** Collaborated on a location-based web application.
 
