@@ -1,6 +1,6 @@
 # Hi, I'm Oswaldo Diaz Milanes 👋
 
-### Senior Frontend Engineer | React & Next.js
+### Fullstack Engineer | Typescript, React, Node & Next.js
 
 I have 7 years of experience transforming complex requirements into high-performance interfaces
 
@@ -28,21 +28,21 @@ I have 7 years of experience transforming complex requirements into high-perform
 
 **Databases:** PostgreSQL, MongoDB, Mongoose.
 
-**ORM & Auth:** Prisma, Mongoose, JWT, Auth.js.
+**ORM & Auth:** Prisma, Mongoose, Auth.js, BetterAuth.
 
 ---
 
 ## 💼 Featured Experience
 
-**Senior Frontend Engineer @ FOBS (2025 - Present):** Leading the frontend development of a business review platform MVP.
+**@ FOBS (2025 - Present)
 
-**Frontend Developer @ Nrby, Inc (2021 - 2025):** Collaborated on a location-based web application.
+**@ Nrby, Inc (2021 - 2025)
 
 ---
 
 ## 📫 Connect with me:
 
-💼 [LinkedIn](https://linkedin.com/in/oswaldo-diaz-milanés-b73b512b6/)
+💼 [LinkedIn](https://www.linkedin.com/in/oswaldo-diaz-milanes/)
 🌐 [Portfolio](https://oswaldodm.github.io/portfolio/)
 📧 [oswaldoe1992@gmail.com](mailto:oswaldoe1992@gmail.com)
 
