@@ -34,9 +34,9 @@ I have 7 years of experience transforming complex requirements into high-perform
 
 ## 💼 Featured Experience
 
-**@ FOBS (2025 - Present)
+@ FOBS (2025 - Present)
 
-**@ Nrby, Inc (2021 - 2025)
+@ Nrby, Inc (2021 - 2025)
 
 ---
 
